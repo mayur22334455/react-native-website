@@ -201,7 +201,7 @@ These components may be useful for certain applications. For an exhaustive list 
   <div className="component">
     <a href="./statusbar">
       <h3>StatusBar</h3>
-      <p>Component to control the app status bar.</p>
+      <p>Component to control the app status bar. or menu bar</p>
     </a>
   </div>
 </div>
